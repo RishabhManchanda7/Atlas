@@ -1,2 +1,2 @@
-# Atlas
+# Rish
 Atlas Program
